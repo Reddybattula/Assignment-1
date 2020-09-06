@@ -1,7 +1,7 @@
 # Assignment-1
 
 ## Name
-Simple web page for Vecta Corp
+Simple web page for Vecta Corporation
 
 ## Description
 This web page is all about the information related to Vecta Corporation.  
